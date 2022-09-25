@@ -15,6 +15,10 @@ void ShowMenu() {
 	cout << "Show All Students [3]" << endl;
 }
 
+void SomeFunction() {
+
+}
+
 void main() {
 
 
