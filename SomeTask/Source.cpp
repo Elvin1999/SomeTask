@@ -9,6 +9,12 @@ void ShowStudent(const Student& student) {
 	cout << "Age : " << student.age << endl;
 }
 
+void ShowMenu() {
+	cout << "Show All Students [1]" << endl;
+	cout << "Show All Students [2]" << endl;
+	cout << "Show All Students [3]" << endl;
+}
+
 void main() {
 
 
